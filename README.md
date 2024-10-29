@@ -16,7 +16,7 @@ A face recognition-based attendance system that streamlines student attendance t
 Clone the repository:
 
 ```bash
-git clone https://github.com/Sourav8055/Class-Attendance-System.git
+git clone https://github.com/souravkumar02/Class-Attendance-System.git
 ```
 
 Create a virtual environment:
@@ -101,7 +101,7 @@ Use the images in **Test** directory inside **dataset** directory for testing th
 
 ## Authors
 
-- [@Sourav Kumar](https://github.com/Sourav8055)
+- [@Sourav Kumar](https://github.com/souravkumar02)
 - [@Supratim Banik](https://github.com/supratimbanik)
 
 ## Tech Stack

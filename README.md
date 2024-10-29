@@ -2,13 +2,6 @@
 
 A face recognition-based attendance system that streamlines student attendance tracking using deep learning techniques and facial detection. This Flask-based web app leverages MTCNN for real-time face detection and MongoDB for secure data storage, ensuring an efficient, touch-free attendance process. It utilizes SVM classifier for face matching.
 
-## Demo
-
-🔗[Class Attendance System](https://class-attendance-system-er4s.onrender.com)
-
-test-username : tutor
-
-test-password : tutor
 
 ## Features
 
@@ -23,7 +16,7 @@ test-password : tutor
 Clone the repository:
 
 ```bash
-git clone https://github.com/supratimbanik/Class-Attendance-System.git
+git clone https://github.com/Sourav8055/Class-Attendance-System.git
 ```
 
 Create a virtual environment:
@@ -108,7 +101,8 @@ Use the images in **Test** directory inside **dataset** directory for testing th
 
 ## Authors
 
-- [@supratimbanik](https://github.com/supratimbanik)
+- [@Sourav Kumar](https://github.com/Sourav8055)
+- [@Supratim Banik](https://github.com/supratimbanik)
 
 ## Tech Stack
 
